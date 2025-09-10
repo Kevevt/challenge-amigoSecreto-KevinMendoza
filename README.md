@@ -36,3 +36,8 @@ Repositorio (para entrega en Alura): **REPO_URL**
 HTML • CSS • JavaScript (sin dependencias)
 
 ### 🗂️ Estructura
+1. index.html
+2. style.css
+3. app.js
+4. assets
+5. README.md
