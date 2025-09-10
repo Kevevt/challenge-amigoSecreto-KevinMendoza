@@ -16,8 +16,10 @@ Aplicación web sencilla para ingresar participantes y realizar un sorteo aleato
 ### 🚀 Estado
 ✅ Completado y funcional.
 
-### 🔗 Acceso
-Repositorio (para entrega en Alura): **REPO_URL**
+### 🔗 Acceso al Proyecto
+[![GitHub Repository](https://img.shields.io/badge/Repositorio-Código_Fuente-black?style=for-the-badge&logo=github)](https://github.com/Kevevt/challenge-amigoSecreto-KevinMendoza)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-green?style=for-the-badge&logo=google-chrome)](https://Kevevt.github.io/challenge-amigoSecreto-KevinMendoza/)
+
 
 ### ⚡ Uso rápido
 1. Clona o descarga el repositorio.  
