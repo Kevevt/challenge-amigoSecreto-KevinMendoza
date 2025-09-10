@@ -21,11 +21,6 @@ Aplicación web sencilla para ingresar participantes y realizar un sorteo aleato
 [![Live Demo](https://img.shields.io/badge/Demo-Online-green?style=for-the-badge&logo=google-chrome)](https://Kevevt.github.io/challenge-amigoSecreto-KevinMendoza/)
 
 
-### ⚡ Uso rápido
-1. Clona o descarga el repositorio.  
-2. Abre `index.html` en tu navegador.  
-3. Agrega nombres → **Sortear amigo** → **Nuevo juego** para reiniciar.
-
 ### 🎯 Funcionalidades
 - Agregar nombres con validación (evita vacíos y formatea).
 - Prevención de duplicados.
