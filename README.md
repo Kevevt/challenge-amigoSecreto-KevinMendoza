@@ -4,11 +4,10 @@
 - [Descripción](#-descripción)
 - [Estado](#-estado)
 - [Acceso](#-acceso)
-- [Uso rápido](#-uso-rápido)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologías](#-tecnologías)
 - [Estructura](#-estructura)
-- [Créditos](#-créditos)
+
 
 ### 📝 Descripción
 Aplicación web sencilla para ingresar participantes y realizar un sorteo aleatorio del “amigo secreto”. Incluye validación básica y un botón de **Nuevo juego**.
